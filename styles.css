@@ -1,0 +1,11 @@
+.horizontal-line {
+  border: none;
+  border-top: 1px solid grey;
+  margin: 10px 0;
+}
+
+.horizontal-line-muted {
+  border: none;
+  border-top: 1px solid lightgrey;
+  margin: 10px 0;
+}
